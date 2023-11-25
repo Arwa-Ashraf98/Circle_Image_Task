@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Circle Image Task</string>
+    <string name="images_from_local">Images From Local</string>
+    <string name="images_from_network">Images From Network</string>
+</resources>
